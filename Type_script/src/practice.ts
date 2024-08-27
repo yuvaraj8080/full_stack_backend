@@ -21,3 +21,10 @@ login(user);
 const ans: number = printAddition(4, 5);
 console.log(ans);
 PrintData();
+
+
+
+function printHello(): void {
+    console.log('Hello!');
+}
+printHello();
